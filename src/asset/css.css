@@ -1,0 +1,40 @@
+body {
+    background-color: #f3f3f3;
+    padding: 20px;
+    margin: 0;
+}
+input[type=text]{
+  width:40%;
+  border:2px solid rgb(9, 143, 184);
+  height:35px;
+}
+input[type=submit]{
+  width:20%;
+  height:35px;
+  background-color: rgb(233, 5, 81);
+}
+.component{
+  margin:30px 0px 0px 600px;
+}
+.Buttoncomponent{
+  margin:30px 0px 0px 725px;
+}
+.styled-table {
+  border-collapse: collapse;
+  margin: 25px 0 0 650px;
+  font-size: 1em;
+  font-family: sans-serif;
+  min-width: 400px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.styled-table th {
+  background-color: #009879;
+  color: #2dc772;
+  text-align: center;
+  color: #101111 ;
+
+}
+.styled-table tr {
+  border-bottom: .8px solid #2e2c2c;
+  text-align: center;
+}
